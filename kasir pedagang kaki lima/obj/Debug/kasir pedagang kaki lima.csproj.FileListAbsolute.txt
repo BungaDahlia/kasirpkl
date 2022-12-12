@@ -1,0 +1,52 @@
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\kasir pedagang kaki lima.exe.config
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\kasir pedagang kaki lima.exe
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\kasir pedagang kaki lima.pdb
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\ZstdNet.dll
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Backupdatabase.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.DaftarHutang.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Form1.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\rental_mobil.Form2.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formkmasukkategori.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formmaster.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formmasukbarang.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formmasukidentitastoko.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formmasukpelanggan.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Formpembayaran.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.laporan.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.masteridentitas.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Menumaster.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Menutransaksi.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Properties.Resources.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.Return.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.tambahbarangcs.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.tambahkategori.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.tambahpelanggan.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir_pedagang_kaki_lima.transaksipenjualan.resources
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.csproj.CopyComplete
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.exe
+C:\Users\USER\source\repos\kasir pedagang kaki lima\kasir pedagang kaki lima\obj\Debug\kasir pedagang kaki lima.pdb
